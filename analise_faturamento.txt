@@ -1,0 +1,43 @@
+Análise de Faturamento das Filiais da Mottu
+
+Metodologia:
+1. O faturamento mensal por moto foi considerado igual para aluguel e venda.
+2. O faturamento semanal do aluguel foi calculado como sendo quatro vezes menor que o faturamento mensal da venda.
+3. O faturamento total por estado foi calculado somando o faturamento de todas as transações em cada estado.
+4. Os estados foram ordenados pelo faturamento total, do maior para o menor.
+
+Resultados:
+Filial com melhor faturamento: SP
+Faturamento total: R$ 381.100,00
+
+Faturamento de todas as filiais (ordenado):
+Estado
+SP        R$ 381.100,00
+MG        R$ 279.200,00
+SC        R$ 238.100,00
+PE        R$ 192.400,00
+RS        R$ 164.000,00
+BA        R$ 157.100,00
+PR        R$ 131.500,00
+AL        R$ 104.000,00
+PA        R$ 103.600,00
+ES         R$ 95.200,00
+AM         R$ 88.200,00
+GO         R$ 73.100,00
+CE         R$ 70.300,00
+MT         R$ 55.400,00
+MA         R$ 41.200,00
+RN         R$ 37.900,00
+PI         R$ 37.600,00
+PB         R$ 37.200,00
+MS         R$ 36.800,00
+DF         R$ 35.400,00
+SE         R$ 35.100,00
+TO         R$ 34.100,00
+RJ         R$ 33.700,00
+AP         R$ 27.200,00
+AC         R$ 24.100,00
+RO         R$ 18.700,00
+RR         R$ 17.000,00
+Estado          R$ 0,00
+Name: Faturamento, dtype: object

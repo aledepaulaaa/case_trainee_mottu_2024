@@ -1,0 +1,41 @@
+Análise de Desempenho das Filiais da Mottu - Agosto de 2024
+
+Metodologia:
+1. Foram considerados apenas os dados de agosto de 2024.
+2. A receita total por estado foi calculada somando os valores de 'Valor de Entrada' (para vendas) ou 'Caução' (para alugueis).
+3. Os estados foram ordenados pela receita total, do maior para o menor.
+
+Resultados:
+Filial com melhor desempenho: SP
+Receita total: R$ 334.700,00
+
+Desempenho de todas as filiais (ordenado):
+Estado
+SP    R$ 334.700,00
+MG    R$ 245.400,00
+SC    R$ 212.450,00
+PE    R$ 170.600,00
+RS    R$ 141.000,00
+BA    R$ 139.500,00
+PR    R$ 123.950,00
+PA     R$ 95.000,00
+ES     R$ 90.700,00
+AL     R$ 86.800,00
+AM     R$ 81.300,00
+GO     R$ 65.200,00
+CE     R$ 64.900,00
+MT     R$ 50.100,00
+MA     R$ 40.100,00
+PI     R$ 33.700,00
+RN     R$ 33.300,00
+MS     R$ 32.650,00
+PB     R$ 32.520,00
+DF     R$ 31.800,00
+RJ     R$ 30.300,00
+SE     R$ 28.000,00
+TO     R$ 26.800,00
+AP     R$ 23.400,00
+AC     R$ 20.200,00
+RO     R$ 16.050,00
+RR     R$ 15.700,00
+Name: Receita, dtype: object
